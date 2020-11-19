@@ -17,3 +17,4 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 # Datos
    * Nombre:Fernando Barrera Barrera :guitar: 
    * Codigo: 2137737 :wolf:
+   * seminario cibe: :monkey:
